@@ -7,10 +7,9 @@
     Name: "Haze Anderson",
     Location: "GitHub",
     Interests: [
-        "Designing and Building Audio Circuits",
-        "Analog and Digital Eletronics",
+        "Electronic Circuits",
         "Functional Programming with Scheme",
-        "Implementing Design Patterns with Python"
+        "Design Patterns with Python"
     ]
 }
 ```
@@ -29,7 +28,7 @@ Within my repositories, you may find various projects related to the design and 
 
 Scheme, a dialect of Lisp, is a versatile and elegant functional programming language. I enjoy exploring different problem-solving approaches using functional programming paradigms. If you are interested in functional programming or curious about Scheme, you might find some interesting pieces of code and projects among my repositories.
 
-## Object-Oriented Design Patterns with Python
+## Design Patterns with Python
 
 You may stumble upon repositories where I have applied the Gang of Four authored Object-Oriented Design Patterns to Python projects. If you are keen to learn about different design patterns or wish to see their implementation in Python, you may find my repositories helpful.
 
